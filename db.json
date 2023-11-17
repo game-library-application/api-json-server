@@ -5,9 +5,13 @@
             "title": "The Last Of Us",
             "description": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
             "rating": 9,
-            "genre": ["singeplayer", "zombie", "action"],
+            "genre": [
+                "Singeplayer",
+                "Zombie",
+                "Action"
+            ],
             "price": 59.99,
-            "platform": "pc",
+            "platform": "PC",
             "free": false,
             "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/header.jpg?t=1697567304"
         },
@@ -16,9 +20,12 @@
             "title": "Minecraft",
             "description": "Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game.",
             "rating": 9,
-            "genre": ["sandbox", "survival"],
+            "genre": [
+                "Sandbox",
+                "Survival"
+            ],
             "price": 29.99,
-            "platform": "pc",
+            "platform": "PC",
             "free": false,
             "image_url": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Minecraft.jpg"
         },
@@ -27,9 +34,13 @@
             "title": "Paladins",
             "description": "Paladins is set in a vibrant fantasy world and features a diverse cast of Champions ranging from sharpshooting humans to mech-riding goblins, mystical elves, and jetpack-clad dragons. Each Champion brings a unique set of abilities to the battlefield and new Champions are regularly added to Paladins, keeping the game exciting.",
             "rating": 7,
-            "genre": ["action", "massive multiplayer", "strategy"],
+            "genre": [
+                "Action",
+                "Massively Multiplayer",
+                "Strategy"
+            ],
             "price": 0,
-            "platform": "pc",
+            "platform": "PC",
             "free": true,
             "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/444090/header.jpg?t=1695838776"
         },
@@ -38,9 +49,13 @@
             "title": "Halo: The Master Chief Collection",
             "description": "Featuring Halo: Reach, Halo: Combat Evolved Anniversary, Halo 2: Anniversary, Halo 3, Halo 3: ODST Campaign, and Halo 4, The Master Chief Collection offers players their own exciting journey through the epic saga. Starting with the incredible bravery of Noble Six in Halo: Reach and ending with the rise of a new enemy in Halo 4, the Master Chief's saga totals 67 campaign missions over six critically-acclaimed titles.",
             "rating": 8,
-            "genre": ["action", "first-person shooter", "sci-fi"],
+            "genre": [
+                "Action",
+                "First-person Shooter",
+                "Sci-fi"
+            ],
             "price": 39.99,
-            "platform": "pc",
+            "platform": "PC",
             "free": false,
             "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/header.jpg?t=1670458602"
         },
@@ -49,11 +64,199 @@
             "title": "Hogwarts Legacy",
             "description": "Experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten.",
             "rating": 8,
-            "genre": ["magic", "fantasy", "role-playing game"],
+            "genre": [
+                "Magic",
+                "Fantasy",
+                "Role-Playing"
+            ],
             "price": 59.99,
-            "platform": "pc",
+            "platform": "PC",
             "free": false,
             "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1699983982"
+        },
+        {
+            "id": 6,
+            "title": "Beyond: Two Souls",
+            "description": "Born with a connection to a mysterious entity with incredible powers, Jodie is different. Your actions will determine Jodie's fate as she faces extraordinary challenges, danger, and heart-wrenching loss on a journey to discover the truth of who she is.",
+            "rating": 8,
+            "genre": [
+                "Adventure",
+                "Singleplayer",
+                "Sci-fi",
+                "Thriller",
+                "Violent"
+            ],
+            "price": 19.90,
+            "platform": [
+                "PC",
+                "PS3",
+                "PS4"
+            ],
+            "free": false,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/960990/header.jpg?t=1667468566"
+        },
+        {
+            "id": 7,
+            "title": "Black Desert",
+            "description": "Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
+            "rating": 7,
+            "genre": [
+                "MMORPG",
+                "Open World",
+                "Massively Multiplayer",
+                "Adventure",
+                "Fantasy",
+                "Action",
+                "Simulation"
+            ],
+            "price": 9.99,
+            "platform": [
+                "PC",
+                "PS4",
+                "Xbox One"
+            ],
+            "free": false,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg?t=1699030526"
+        },
+        {
+            "id": 8,
+            "title": "Dead By Daylight",
+            "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.",
+            "rating": 8,
+            "genre": [
+                "Horror",
+                "Survival",
+                "Multiplayer",
+                "Violent",
+                "Co-op"
+            ],
+            "price": 19.99,
+            "platform": [
+                "PC",
+                "Nintendo Switch",
+                "PS4",
+                "PS5",
+                "Xbox Series X",
+                "Xbox Series S",
+                "Android",
+                "iOS"
+            ],
+            "free": false,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1699366103"
+        },
+        {
+            "id": 9,
+            "title": "Fall Guys",
+            "description": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
+            "rating": 7,
+            "genre": [
+                "Party",
+                "Multiplayer"
+            ],
+            "price": 0,
+            "platform": [
+                "PC",
+                "Nintendo Switch",
+                "PS4",
+                "PS5",
+                "Xbox Series X",
+                "Xbox Series S",
+                "Android",
+                "iOS"
+            ],
+            "free": true,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg?t=1698763175"
+        },
+        {
+            "id": 10,
+            "title": "The Sims 4",
+            "description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that's wholly unique. Explore and customize every detail from Sims to homes–and much more.",
+            "rating": 7.5,
+            "genre": [
+                "Sandbox",
+                "Simulation",
+                "Singleplayer"
+            ],
+            "price": 0,
+            "platform": [
+                "PC",
+                "PS4",
+                "Xbox One"
+            ],
+            "free": true,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1700160976"
+        },
+        {
+            "id": 11,
+            "title": "Unpacking",
+            "description": "Unpacking is a zen game about the familiar experience of pulling possessions out of boxes and fitting them into a new home. Part block-fitting puzzle, part home decoration, you are invited to create a satisfying living space while learning clues about the life you're unpacking.",
+            "rating": 8,
+            "genre": [
+                "Relaxing",
+                "Casual",
+                "Puzzle",
+                "Simulation",
+                "Singleplayer"
+            ],
+            "price": 19.99,
+            "platform": [
+                "PC",
+                "PS4",
+                "PS5",
+                "Nintendo Switch",
+                "Android",
+                "iOS"
+            ],
+            "free": false,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1135690/header.jpg?t=1698810645"
+        },
+        {
+            "id": 12,
+            "title": "Warframe",
+            "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game.",
+            "rating": 7.5,
+            "genre": [
+                "Action",
+                "Massively Multiplayer",
+                "Co-op",
+                "Sci-fi",
+                "Shooter"
+            ],
+            "price": 0,
+            "platform": [
+                "PC",
+                "PS4",
+                "PS5",
+                "Nintendo Switch",
+                "Xbox One"
+            ],
+            "free": true,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg?t=1697647667"
+        },
+        {
+            "id": 13,
+            "title": "The Dark Pictures Anthology: Man of Medan",
+            "description": "In Man of Medan, five friends set sail on a holiday diving trip that soon changes into something much more sinister.",
+            "rating": 7,
+            "genre": [
+                "Horror",
+                "Co-op",
+                "Adventure",
+                "Violent",
+                "Singleplayer"
+            ],
+            "price": 19.99,
+            "platform": [
+                "PC",
+                "PS4",
+                "PS5",
+                "Nintendo Switch",
+                "Xbox One",
+                "Xbox Series S",
+                "Xbox Series X"
+            ],
+            "free": false,
+            "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/939850/header.jpg?t=1676860849"
         }
     ]
 }
