@@ -1,135 +1,106 @@
 {
   "games": [
     {
-      "title": "The Last Of Us",
+      "title": "The Last Of Us Part I",
       "description": "In a ravaged civilization, where infected and hardened survivors run rampant, Joel, a weary protagonist, is hired to smuggle 14-year-old Ellie out of a military quarantine zone. However, what starts as a small job soon transforms into a brutal cross-country journey.",
-      "rating": 9,
-      "genre": [
-        "Singleplayer",
-        "Zombie",
-        "Action"
-      ],
+      "rating": 8.2,
+      "genre": ["Singleplayer", "Zombie", "Action"],
       "price": 59.99,
-      "platform": [
-        "PC"
-      ],
+      "platform": ["PC"],
       "free": false,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/header.jpg?t=1697567304",
       "video_url": "https://www.youtube.com/watch?v=R2Ebc_OFeug",
       "id": 1,
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/ss_e67d2ca76b0c8985a3615afb38c21e893df73272.600x338.jpg?t=1697567304",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1888930/ss_ec1a71230d4fb477282fa7f25688af37b702ce49.600x338.jpg?t=1697567304"
       ]
     },
     {
       "title": "Minecraft",
       "description": "Minecraft is a 3D sandbox game that has no required goals to accomplish, allowing players a large amount of freedom in choosing how to play the game.",
       "rating": 9,
-      "genre": [
-        "Sandbox",
-        "Survival"
-      ],
+      "genre": ["Sandbox", "Crafting", "Survival"],
       "price": 29.99,
-      "platform": [
-        "PC"
-      ],
+      "platform": ["PC"],
       "free": false,
       "image_url": "https://i.ibb.co/WvKb3wX/header-minecraft.jpg",
       "video_url": "https://www.youtube.com/watch?v=MmB9b5njVbA",
       "id": 2,
       "images": [
-        "https://t2.tudocdn.net/567964?w=824&h=494",
-        "https://img.redbull.com/images/q_auto,f_auto/redbullcom/2016/12/16/1331835109442_2/o-%C3%BAnico-limite-%C3%A9-a-tua-pr%C3%B3pria-imagina%C3%A7%C3%A3o.png"
+        "https://www.minecraft.net/content/dam/games/minecraft/key-art/OV_PMP_GameModeCarousel_Frame_Slide1_Desktop.png",
+        "https://www.minecraft.net/content/dam/games/minecraft/screenshots/Mangrove_House.png"
       ]
     },
     {
       "title": "Paladins",
       "description": "Paladins is set in a vibrant fantasy world and features a diverse cast of Champions ranging from sharpshooting humans to mech-riding goblins, mystical elves, and jetpack-clad dragons. Each Champion brings a unique set of abilities to the battlefield and new Champions are regularly added to Paladins, keeping the game exciting.",
-      "rating": 8,
-      "genre": [
-        "Action",
-        "Massively Multiplayer",
-        "Strategy"
-      ],
+      "rating": 7.9,
+      "genre": ["Action", "Massively Multiplayer", "Strategy"],
       "price": 0,
-      "platform": [
-        "PC"
-      ],
+      "platform": ["PC"],
       "free": true,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/444090/header.jpg?t=1695838776",
       "video_url": "https://www.youtube.com/watch?v=g4WHiMVq1-8",
       "id": 3,
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/444090/ss_846b1464dc9242bc44c9b43547c7b5567cbbdf0c.600x338.jpg?t=1695838776",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/444090/ss_ad869c6cb217556a844a2ca8558867c51dcc442e.600x338.jpg?t=1695838776"
       ]
     },
     {
       "id": 4,
       "title": "Halo: The Master Chief Collection",
       "description": "Featuring Halo: Reach, Halo: Combat Evolved Anniversary, Halo 2: Anniversary, Halo 3, Halo 3: ODST Campaign, and Halo 4, The Master Chief Collection offers players their own exciting journey through the epic saga. Starting with the incredible bravery of Noble Six in Halo: Reach and ending with the rise of a new enemy in Halo 4, the Master Chief's saga totals 67 campaign missions over six critically-acclaimed titles.",
-      "rating": 8,
-      "genre": [
-        "Action",
-        "First-person Shooter",
-        "Sci-fi"
-      ],
+      "rating": 8.7,
+      "genre": ["Action", "First-Person Shooter", "Sci-fi"],
       "price": 39.99,
-      "platform": [
-        "PC"
-      ],
+      "platform": ["PC"],
       "free": false,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/header.jpg?t=1670458602",
       "video_url": "https://www.youtube.com/watch?v=E-SOKBrNjug",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/ss_ce40a85f9f7f3fa0f620a87f8919f3212ab8e46e.600x338.jpg?t=1670458602",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/ss_62bbd86f4735893ef6cd53206cf8c93f87eb86ec.600x338.jpg?t=1670458602"
       ]
     },
     {
       "id": 5,
       "title": "Hogwarts Legacy",
       "description": "Experience Hogwarts in the 1800s. Your character is a student who holds the key to an ancient secret that threatens to tear the wizarding world apart. Make allies, battle Dark wizards, and ultimately decide the fate of the wizarding world. Your legacy is what you make of it. Live the Unwritten.",
-      "rating": 8,
-      "genre": [
-        "Magic",
-        "Fantasy",
-        "Role-Playing"
-      ],
+      "rating": 8.4,
+      "genre": ["Magic", "Fantasy", "Role-Playing"],
       "price": 59.99,
-      "platform": [
-        "PC"
-      ],
+      "platform": ["PC"],
       "free": false,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1699983982",
       "video_url": "https://www.youtube.com/watch?v=BtyBjOW8sGY",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/ss_725bf58485beb4aa37a3a69c1e2baa69bf3e4653.600x338.jpg?t=1699983982",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/ss_df93b5e8a183f7232d68be94ae78920a90de1443.600x338.jpg?t=1699983982"
       ]
     },
     {
       "id": 6,
       "title": "Beyond: Two Souls",
       "description": "Born with a connection to a mysterious entity with incredible powers, Jodie is different. Your actions will determine Jodie's fate as she faces extraordinary challenges, danger, and heart-wrenching loss on a journey to discover the truth of who she is.",
-      "rating": 8,
-      "genre": [
-        "Adventure",
-        "Singleplayer",
-        "Sci-fi",
-        "Thriller",
-        "Violent"
-      ],
+      "rating": 7.1,
+      "genre": ["Adventure", "Singleplayer", "Sci-fi", "Thriller", "Violent"],
       "price": 19.9,
-      "platform": [
-        "PC",
-        "PS3",
-        "PS4"
-      ],
+      "platform": ["PC", "PS3", "PS4"],
       "free": false,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/960990/header.jpg?t=1667468566",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/header.jpg?t=1667468566",
       "video_url": "https://www.youtube.com/watch?v=uYxM0ULt2Js",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/ss_5da0bcf3be8205d656c271217ead8f0190bd5234.600x338.jpg?t=1667468566",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/960990/ss_d278c24710d2ef6ae168a9c79fd7ba0b993131b1.600x338.jpg?t=1667468566"
       ]
     },
     {
       "id": 7,
       "title": "Black Desert",
       "description": "Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!",
-      "rating": 7,
+      "rating": 7.1,
       "genre": [
         "MMORPG",
         "Open World",
@@ -140,63 +111,52 @@
         "Simulation"
       ],
       "price": 9.99,
-      "platform": [
-        "PC",
-        "PS4",
-        "Xbox One"
-      ],
+      "platform": ["PC", "PS4", "Xbox One"],
       "free": false,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg?t=1699030526",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/header.jpg?t=1700705384",
       "video_url": "https://www.youtube.com/watch?v=DD4zMOvRrzM",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/ss_974ce7439f15290729422c43363bd86ec56eb276.600x338.jpg?t=1700705384",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/582660/ss_a4c2348412fec008a7dadacb52793bc2f6185f26.600x338.jpg?t=1700705384"
       ]
     },
     {
       "id": 8,
       "title": "Dead By Daylight",
       "description": "Dead by Daylight is a multiplayer (4vs1) horror game where one player takes on the role of the savage Killer, and the other four players play as Survivors, trying to escape the Killer and avoid being caught, tortured and killed.",
-      "rating": 8,
-      "genre": [
-        "Horror",
-        "Survival",
-        "Multiplayer",
-        "Violent",
-        "Co-op"
-      ],
+      "rating": 7.0,
+      "genre": ["Horror", "Survival", "Multiplayer", "Violent", "Co-op"],
       "price": 19.99,
       "platform": [
         "PC",
         "Nintendo Switch",
         "PS4",
         "PS5",
-        "Xbox Series X",
-        "Xbox Series S",
+        "Xbox Series S & X",
         "Android",
         "iOS"
       ],
       "free": false,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1699366103",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg?t=1700508861",
       "video_url": "https://www.youtube.com/watch?v=JGhIXLO3ul8",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/ss_659500624438a4aa77bfdf304cba3ecebcd92ed9.600x338.jpg?t=1700508861",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/ss_ca6b39f2fcac8feb75d23976b1be31290d58d159.600x338.jpg?t=1700508861"
       ]
     },
     {
       "id": 9,
       "title": "Fall Guys",
       "description": "Fall Guys is a free, cross-platform massively multiplayer party royale game. Clumsily compete in absurd obstacle courses with friends or build your very own chaotic course to share with the community.",
-      "rating": 7,
-      "genre": [
-        "Party",
-        "Multiplayer"
-      ],
+      "rating": 8,
+      "genre": ["Party", "Multiplayer"],
       "price": 0,
       "platform": [
         "PC",
         "Nintendo Switch",
         "PS4",
         "PS5",
-        "Xbox Series X",
-        "Xbox Series S",
+        "Xbox Series S & X",
         "Android",
         "iOS"
       ],
@@ -204,62 +164,47 @@
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg?t=1698763175",
       "video_url": "https://www.youtube.com/watch?v=Wj3dUvGLjNQ",
       "images": [
+        "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-02-1920x1080-525dae18d89b.jpg",
+        "https://cdn2.unrealengine.com/egs-fallguys-mediatonic-g1a-03-1920x1080-a9a882b3e322.jpg"
       ]
     },
     {
       "id": 10,
       "title": "The Sims 4",
       "description": "Play with life and discover the possibilities. Unleash your imagination and create a world of Sims that's wholly unique. Explore and customize every detail from Sims to homes–and much more.",
-      "rating": 7.5,
-      "genre": [
-        "Sandbox",
-        "Simulation",
-        "Singleplayer"
-      ],
+      "rating": 7,
+      "genre": ["Sandbox", "Simulation", "Singleplayer"],
       "price": 0,
-      "platform": [
-        "PC",
-        "PS4",
-        "Xbox One"
-      ],
+      "platform": ["PC", "PS4", "Xbox One"],
       "free": true,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1700160976",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg?t=1700160976",
       "video_url": "https://www.youtube.com/watch?v=DyNv44QR14g",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/ss_537683e5e29c2d6d02c64aa7321dcb26166f7d82.600x338.jpg?t=1700160976",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/ss_2fc938d99a1e87893852cb2d2113478190607941.600x338.jpg?t=1700160976"
       ]
     },
     {
       "id": 11,
       "title": "Unpacking",
       "description": "Unpacking is a zen game about the familiar experience of pulling possessions out of boxes and fitting them into a new home. Part block-fitting puzzle, part home decoration, you are invited to create a satisfying living space while learning clues about the life you're unpacking.",
-      "rating": 8,
-      "genre": [
-        "Relaxing",
-        "Casual",
-        "Puzzle",
-        "Simulation",
-        "Singleplayer"
-      ],
+      "rating": 8.3,
+      "genre": ["Relaxing", "Casual", "Puzzle", "Simulation", "Singleplayer"],
       "price": 19.99,
-      "platform": [
-        "PC",
-        "PS4",
-        "PS5",
-        "Nintendo Switch",
-        "Android",
-        "iOS"
-      ],
+      "platform": ["PC", "PS4", "PS5", "Nintendo Switch", "Android", "iOS"],
       "free": false,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1135690/header.jpg?t=1698810645",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1135690/header.jpg?t=1698810645",
       "video_url": "https://www.youtube.com/watch?v=_BG98e_w6d0",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1135690/ss_b32bfdd3f68e1f9e264bd37e10a464629ca034f8.600x338.jpg?t=1698810645",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1135690/ss_9b358510285a4b70e446237de5996bc434415c01.600x338.jpg?t=1698810645"
       ]
     },
     {
       "id": 12,
       "title": "Warframe",
       "description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game.",
-      "rating": 7.5,
+      "rating": 7.4,
       "genre": [
         "Action",
         "Massively Multiplayer",
@@ -268,31 +213,21 @@
         "Shooter"
       ],
       "price": 0,
-      "platform": [
-        "PC",
-        "PS4",
-        "PS5",
-        "Nintendo Switch",
-        "Xbox One"
-      ],
+      "platform": ["PC", "PS4", "PS5", "Nintendo Switch", "Xbox One"],
       "free": true,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg?t=1697647667",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg?t=1700591524",
       "video_url": "https://www.youtube.com/watch?v=MsbL8lFHrZI",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/ss_2e4077f215eccde84171a4b8e0f2bc8a3264c776.600x338.jpg?t=1700591524",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/ss_0a541a8bf59e212870ea8d82260ac1b3ae2d0354.600x338.jpg?t=1700591524"
       ]
     },
     {
       "id": 13,
       "title": "The Dark Pictures Anthology: Man of Medan",
       "description": "In Man of Medan, five friends set sail on a holiday diving trip that soon changes into something much more sinister.",
-      "rating": 7,
-      "genre": [
-        "Horror",
-        "Co-op",
-        "Adventure",
-        "Violent",
-        "Singleplayer"
-      ],
+      "rating": 7.1,
+      "genre": ["Horror", "Co-op", "Adventure", "Violent", "Singleplayer"],
       "price": 19.99,
       "platform": [
         "PC",
@@ -300,32 +235,1165 @@
         "PS5",
         "Nintendo Switch",
         "Xbox One",
-        "Xbox Series S",
-        "Xbox Series X"
+        "Xbox Series S & X"
       ],
       "free": false,
-      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/939850/header.jpg?t=1676860849",
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/939850/header.jpg?t=1676860849",
       "video_url": "https://www.youtube.com/watch?v=u6R1T-AANyU",
       "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/939850/ss_1af0e37de162c10f6c17160801f5941f08cfcc37.600x338.jpg?t=1676860849",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/939850/ss_47b3cc64b4b2637f6c988eeb64ed2e5efc80ea9b.600x338.jpg?t=1676860849"
       ]
     },
     {
-      "title": "ddd",
-      "description": "ddd",
-      "rating": 3,
-      "price": 3,
-      "genre": [
-        "Adventure",
-        "Casual"
-      ],
+      "id": 14,
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+      "rating": 9.3,
+      "price": 49.99,
+      "genre": ["RPG", "Action", "Fantasy", "Open World"],
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/subs/124923/header_586x192.jpg?t=1671055800",
+      "video_url": "https://www.youtube.com/watch?v=uqtFg2C2v_0",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/ss_5710298af2318afd9aa72449ef29ac4a2ef64d8e.600x338.jpg?t=1693590732",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/ss_0901e64e9d4b8ebaea8348c194e7a3644d2d832d.600x338.jpg?t=1693590732"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Valheim",
+      "description": "Valheim is a brutal exploration and survival game for 1-10 players set in a procedurally-generated world inspired by Norse mythology. Craft powerful weapons, construct longhouses, and slay mighty foes to prove yourself to Odin!",
+      "rating": 8.5,
+      "price": 19.99,
+      "genre": ["Survival", "Crafting", "Fantasy", "Open World"],
+      "platform": ["PC", "Xbox One", "Xbox Series S & X"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg?t=1692705902",
+      "video_url": "https://www.youtube.com/watch?v=liQLtCLq3tc",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/ss_a600a7d4ca954543e22f571a9629521a13f82143.1920x1080.jpg?t=1692705902",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/ss_cd0262c5abf8a90ee5e1059acafc5a92b6be0e73.600x338.jpg?t=1692705902"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Star Wars Jedi: Fallen Order",
+      "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a new third-person action-adventure title from Respawn Entertainment. This narratively driven, single-player game puts you in the role of a Jedi Padawan who narrowly escaped the purge of Order 66 following the events of Episode 3: Revenge of the Sith. On a quest to rebuild the Jedi Order, you must pick up the pieces of your shattered past to complete your training, develop new powerful Force abilities and master the art of the iconic lightsaber - all while staying one step ahead of the Empire and its deadly Inquisitors.",
+      "rating": 8.2,
+      "price": 69.99,
+      "genre": ["Action", "Adventure", "Sci-fi", "Third-Person"],
+      "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series S & X"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/header.jpg?t=1700042981",
+      "video_url": "https://www.youtube.com/watch?v=0GLbwkfhYZk",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/ss_cfad9481db1a3b68fb5fcb2298cfc74bcb6a469e.1920x1080.jpg?t=1700042981",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1172380/ss_695a5724e306269d81ca0118d86308a170c9e913.1920x1080.jpg?t=1700042981"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "description": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. Skyrim Special Edition also brings the full power of mods to the PC and consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Mods, there are no limits to what you can experience.",
+      "rating": 8.1,
+      "price": 39.99,
+      "genre": ["Adventure", "Open World", "RPG", "Singleplayer"],
       "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg?t=1650909796",
+      "video_url": "https://www.youtube.com/watch?v=lTjRZ__-278",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/ss_73c1a0bb7e1720c8a1847186c3ddd837d3ca7a8d.600x338.jpg?t=1650909796",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/ss_921ccea650df936a0b14ebd5dd4ecc73c1d2a12d.600x338.jpg?t=1650909796"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Satisfactory",
+      "description": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+      "rating": 9.2,
+      "price": 29.99,
+      "genre": ["Automation", "Open World", "Base Building", "Crafting"],
+      "platform": ["PC"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/header_alt_assets_1.jpg?t=1699977810",
+      "video_url": "https://www.youtube.com/watch?v=QvWaV4qshZQ",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/ss_9083ccf8fbb22c4068a6e233e3de343f815f9dc1.600x338.jpg?t=1699977810",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/ss_dcb79211f2f9bac1e6a2d85aad132fc3ae909001.600x338.jpg?t=1699977810"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "No Man's Sky",
+      "description": "Inspired by the adventure and imagination that we love from classic science-fiction, No Man's Sky presents you with a galaxy to explore, filled with unique planets and lifeforms, and constant danger and action.",
+      "rating": 7.9,
+      "price": 58.99,
+      "genre": ["Survival", "Open World", "Sci-fi", "Crafting", "Space"],
+      "platform": [
+        "PC",
+        "PS4",
+        "PS5",
+        "macOS",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg?t=1700500836",
+      "video_url": "https://www.youtube.com/watch?v=0vXkIFVPXCo",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_94f081d2657d0ad11cc9444c55f21a94647213a7.600x338.jpg?t=1700500836",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/ss_ef1ebfa0119410cb66bb5adc04f0f47826d50325.600x338.jpg?t=1700500836"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Half-Life 2",
+      "description": "The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people he cares about are counting on him.",
+      "rating": 9.6,
+      "price": 9.75,
+      "genre": ["Action", "First-Person Shooter", "Sci-fi", "Singleplayer"],
+      "platform": [
+        "PC",
+        "Android",
+        "macOS",
+        "Xbox",
+        "Xbox 360",
+        "PS3",
+        "Linux"
+      ],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg?t=1699003213",
+      "video_url": "https://www.youtube.com/watch?v=UKA7JkV51Jw",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/220/0000001864.600x338.jpg?t=1699003213",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/220/0000001869.600x338.jpg?t=1699003213"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Graveyard Keeper",
+      "description": "Graveyard Keeper is the most inaccurate medieval cemetery management sim of all time. Build and manage your own graveyard, and expand into other ventures, while finding shortcuts to cut costs. Use all the resources you can find. After all, this is a game about the spirit of capitalism, and doing whatever it takes to build a thriving business. And it's also a love story.",
+      "rating": 6.9,
+      "price": 19.5,
+      "genre": ["Crafting", "RPG", "Simulation", "Indie"],
+      "platform": [
+        "PC",
+        "Android",
+        "macOS",
+        "Xbox One",
+        "iOS",
+        "Nintendo Switch",
+        "Linux",
+        "PS4"
+      ],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/header.jpg?t=1690979259",
+      "video_url": "https://www.youtube.com/watch?v=GmZS6XFBJfQ",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/ss_9533ec3b7abd3300e9873dcd0d2bd5794a8fe54b.600x338.jpg?t=1690979259",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/599140/ss_ed94df58a35110c78a5de4ea20a6922a5f13aaa9.600x338.jpg?t=1690979259"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Fallout: New Vegas",
+      "description": "Welcome to Vegas. New Vegas.It's the kind of town where you dig your own grave prior to being shot in the head and left for dead…and that's before things really get ugly. It's a town of dreamers and desperados being torn apart by warring factions vying for complete control of this desert oasis. It's a place where the right kind of person with the right kind of weaponry can really make a name for themselves, and make more than an enemy or two along the way.",
+      "rating": 8.4,
+      "price": 9.99,
+      "genre": ["Open World", "RPG", "Post-apocalyptic", "Singleplayer"],
+      "platform": ["PC", "PS3", "Xbox 360"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/header.jpg?t=1665072891",
+      "video_url": "https://www.youtube.com/watch?v=JanHMbRjNJ8",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/ss_ec8a28942fcb5cb15718f949ab81124932a5084d.600x338.jpg?t=1665072891",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/ss_f703adcb9aa1d718a39288adf7d2e1b4dc0e568a.600x338.jpg?t=1665072891"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Factorio",
+      "description": "Factorio is a game in which you build and maintain factories. You will be mining resources, researching technologies, building infrastructure, automating production and fighting enemies. In the beginning you will find yourself chopping trees, mining ores and crafting mechanical arms and transport belts by hand, but in short time you can become an industrial powerhouse, with huge solar fields, oil refining and cracking, manufacture and deployment of construction and logistic robots, all for your resource needs. However this heavy exploitation of the planet's resources does not sit nicely with the locals, so you will have to be prepared to defend yourself and your machine empire.",
+      "rating": 8.2,
+      "price": 32,
+      "genre": ["Automation", "Base Building", "Resource Management"],
+      "platform": ["PC", "macOS", "Nintendo Switch"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/header.jpg?t=1665072891",
+      "video_url": "https://www.youtube.com/watch?v=J8SBp4SyvLc",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/ss_36e4d8e5540805f5ed492d24d784ed9ba661752b.600x338.jpg?t=1694021968",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/ss_171f398a8e347fad650a9c1b6c3b77c612781510.600x338.jpg?t=1694021968"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Don't Starve",
+      "description": "You play as Wilson, an intrepid Gentleman Scientist who has been trapped by a demon and transported to a mysterious wilderness world. Wilson must learn to exploit his environment and its inhabitants if he ever hopes to escape and find his way back home.",
+      "rating": 7.8,
+      "price": 8.19,
+      "genre": ["Survival", "Open World", "Crafting"],
+      "platform": [
+        "PC",
+        "macOS",
+        "iOS",
+        "PS4",
+        "Xbox One",
+        "Linux",
+        "PS3",
+        "Nintendo Switch"
+      ],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/219740/header.jpg?t=1675969205",
+      "video_url": "https://www.youtube.com/watch?v=fXP4_2qRHng",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/219740/ss_09bb6bdce4fa085c2c4a9a8f48ea52d3051b44bc.600x338.jpg?t=1675969205",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/219740/ss_3d32a04e77363f3c8179a319de6f90ac1b8b2e0e.600x338.jpg?t=1675969205"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Dying Light 2 Stay Human",
+      "description": "Humanity is fighting a losing battle against the virus. Experience a post-apocalyptic open world overrun by hordes of zombies, where your parkour and combat skills are key to survival. Traverse the City freely during the day, but watch the monsters take over during the night.",
+      "rating": 7.6,
+      "price": 59.99,
+      "genre": ["Parkout", "Open World", "Zombie"],
+      "platform": [
+        "PC",
+        "PS4",
+        "Nintendo Switch",
+        "PS5",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "image_url": "https://gaming-cdn.com/images/products/2672/orig/dying-light-2-stay-human-pc-jogo-steam-cover.jpg?v=1697644479",
+      "video_url": "https://www.youtube.com/watch?v=FSbiwX_BYKo",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/ss_d7906b3946d4857d28c159e7a1555a003a4426f8.600x338.jpg?t=1700745707",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/ss_6b8d4cc1f7d657745cfd7aab941d3be0067dec00.600x338.jpg?t=1700745707"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "The Callisto Protocol",
+      "description": "In this narrative-driven, third-person survival horror game set 300 years in the future, the player will take on the role of Jacob Lee - a victim of fate thrown into Black Iron Prison, a maximum-security penitentiary located on Jupiter's moon, Callisto. When inmates begin to transform into monstrous creatures, the prison is thrown into chaos. To survive, Jacob must battle his way to safety to escape Black Iron Prison, while uncovering the dark and disturbing secrets buried beneath the surface of Callisto.",
+      "rating": 6.7,
+      "price": 59.99,
+      "genre": ["Horror", "Sci-fi", "Survival", "Space"],
+      "platform": ["PC", "PS4", "PS5", "Xbox One", "Xbox Series S & X"],
+      "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/header.jpg?t=1684815136",
+      "video_url": "https://www.youtube.com/watch?v=WnVhgyLbC8A",
+      "free": false,
+      "images": [
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/ss_4daaba46ca4be453dfdc2c1c2af5f96c85921457.600x338.jpg?t=1684815136",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1544020/ss_3eaa6817de5d3849c0f6fa04b937165147804c82.600x338.jpg?t=1684815136"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Red Dead Redemption 2",
+      "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
+      "rating": 9.6,
+      "genre": ["Open World", "Adventure", "Western", "Shooter"],
+      "price": 59.99,
+      "platform": ["PC", "PS4"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=eaW0tYpxyp0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1174180/ss_d1a8f5a69155c3186c65d1da90491fcfd43663d9.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Sea of Thieves",
+      "description": "Sea of Thieves offers the essential pirate experience, from sailing and fighting to exploring and looting - everything you need to live the pirate life and become a legend in your own right. With no set roles, you have complete freedom to approach the world, and other players, however you choose.",
+      "rating": 6.7,
+      "genre": [
+        "Multiplayer",
+        "Adventure",
+        "Open World",
+        "Pirates",
+        "Co-op",
+        "PvP"
+      ],
+      "price": 39.99,
+      "platform": ["PC", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1172620/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=r5JIBaasuE8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1172620/ss_eb726e31966c9dae0bf0c6cc66ef2fc41b241233.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Street Fighter 6",
+      "description": "Street Fighter 6 offers a highly evolved combat system with three control types - Classic, Modern and Dynamic - allowing you to quickly play to your skill level. The new Real Time Commentary Feature adds all the hype of a competitive match as well as easy-to-understand explanations about your gameplay.",
+      "rating": 9.2,
+      "genre": ["Fighting", "Action", "Adventure", "PvP"],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1INU3FOJsTw",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1364780/ss_201488fc9f1aa5e29e2fc6d96ef2b66e41ddf32e.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Cyberpunk 2077",
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+      "rating": 7.8,
+      "genre": ["Cyberpunk", "Open World", "RPG", "Singleplayer", "Action"],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/ccd4360578371706a922223949ed452b.jpg",
+      "video_url": "https://www.youtube.com/watch?v=8X2kIfS6fb8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1091500/ss_872822c5e50dc71f345416098d29fc3ae5cd26c1.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Bread & Fred",
+      "description": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+      "rating": 7.8,
+      "genre": ["Co-op", "Cute", "Multiplayer"],
+      "price": 14.79,
+      "platform": ["PC", "Nintendo Switch"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1607680/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=jTB28_7j4Bc",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1607680/ss_eb02a5f9ac463c9a57fe074db2475388b94300a9.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Heavy Rain",
+      "description": "Experience a gripping psychological thriller filled with innumerable twists and turns. The hunt is on for a murderer known only as the Origami Killer. Four characters, each following their own leads, must take part in a desperate attempt to prevent the killer from claiming a new victim.",
+      "rating": 7.3,
+      "genre": [
+        "Choices Matter",
+        "Multiple Endings",
+        "Adventure",
+        "Singleplayer"
+      ],
+      "price": 19.9,
+      "platform": ["PC", "PS4", "PS3"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/960910/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=YVYiJ3VSp60",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/960910/ss_ae2b1381c68d8d909f02b9005ae97a2d818b4c93.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Sackboy: A Big Adventure",
+      "description": "An epic journey stuffed with platforming challenges. Deeply immersive controls. Collaborative, chaotic and joyful multiplayer fun.",
+      "rating": 8,
+      "genre": ["Adventure", "Multiplayer", "Co-op", "Cute"],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "PS4"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1599660/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZOk3fj5ujNM",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1599660/ss_5958a7ef3498c96585eb6ea99e3a1acdddb39913.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "A Plague Tale: Innocence",
+      "description": "Follow the grim tale of young Amicia and her little brother Hugo, in a heartrending journey through the darkest hours of history.",
+      "rating": 8.1,
+      "genre": ["Adventure", "Singleplayer", "Action", "Medieval"],
+      "price": 39.99,
+      "platform": ["PC", "PS5", "PS4", "Nintendo Switch", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/752590/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=CtP6mNeN6yE",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/752590/ss_8433438bf03b7f524e6cf3ac81e99e96be2188c8.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Ghostwire: Tokyo",
+      "description": "Tokyo's population has vanished, and deadly supernatural forces prowl the streets. Use an arsenal of elemental abilities to unravel the truth behind the disappearance and save Tokyo.",
+      "rating": 7.7,
+      "genre": [
+        "Singleplayer",
+        "Open World",
+        "Supernatural",
+        "Mystery",
+        "Cyberpunk"
+      ],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1475810/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XWpsAKYa7NQ",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1475810/ss_67c79411e5b14f370cefce560e84553027d210db.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Counter-Strike 2",
+      "description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+      "rating": 8.2,
+      "genre": ["FPS", "Shooter", "Multiplayer", "Competitive", "Co-op", "PvP"],
+      "price": 0,
+      "platform": ["PC"],
+      "free": true,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=kDDnvAr6gGI",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Apex Legends",
+      "description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+      "rating": 8.1,
+      "genre": ["Battle Royale", "Multiplayer", "Shooter", "PvP"],
+      "price": 0,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox Series S & X",
+        "Android",
         "iOS"
       ],
-      "image_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
-      "video_url": "",
-      "free": false,
-      "id": 14,
+      "free": true,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=oQtHENM_GZU",
       "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1172470/ss_5000ddd4ad7adb81dd4ecae8329d55be893695d6.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "FC24",
+      "description": "EA SPORTS FC™ 24 welcomes you to The World's Game: the most true-to-football experience ever with HyperMotionV, PlayStyles optimised by Opta, and an enhanced Frostbite™ Engine.",
+      "rating": 7.4,
+      "genre": ["Sports", "Multiplayer", "Football", "Co-op", "PvP"],
+      "price": 69.99,
+      "platform": ["PC", "PS5", "PS4", "Nintendo Switch", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/2195250/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=XhP3Xh4LMA8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/2195250/ss_f3d31c7cffc2a6ab42fb76aaac2bc9d5258bc142.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Enter the Gungeon",
+      "description": "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon's ultimate treasure: the gun that can kill the past.",
+      "rating": 8.4,
+      "genre": ["Bullet Hell", "Co-op", "Indie", "Action"],
+      "price": 14.79,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/311690/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=YSpo2VvN0SM",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/311690/ss_9a74ab65fb19e85cac6a64b7dbe05da5411cfb7b.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Forza Horizon 5",
+      "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant open world landscapes of Mexico with limitless, fun driving action in the world's greatest cars. Conquer the rugged Sierra Nueva in the ultimate Horizon Rally experience. Requires Forza Horizon 5 game, expansion sold separately.",
+      "rating": 9.2,
+      "genre": ["Racing", "Multiplayer", "Open World", "Driving"],
+      "price": 59.99,
+      "platform": ["PC", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Rv7xLt5yNsM",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1551360/ss_b65236b365315ebb6da6114ce42cd74b59cab3c8.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "It Takes Two",
+      "description": "Embark on the craziest journey of your life in It Takes Two. Invite a friend to join for free with Friend's Pass and work together across a huge variety of gleefully disruptive gameplay challenges.",
+      "rating": 8.8,
+      "genre": ["Co-op", "Adventure", "Puzzle"],
+      "price": 39.99,
+      "platform": [
+        "PC",
+        "PS5",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ohClxMmNLQQ",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1426210/ss_3e59753eefaba9a7704a18e902b48e8d38e95e0b.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Spider-Man Remastered",
+      "description": "In Marvel's Spider-Man Remastered, the worlds of Peter Parker and Spider-Man collide in an original action-packed story. Play as an experienced Peter Parker, fighting big crime and iconic villains in Marvel's New York.",
+      "rating": 8.7,
+      "genre": ["Superhero", "Open World", "Action", "Singleplayer"],
+      "price": 59.99,
+      "platform": ["PC", "PS5"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1817070/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=mrT5q5xXb7Y",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1817070/ss_dfba6f2477bfa42be69ddfdffbd421d3943d20bf.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Cuphead",
+      "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+      "rating": 8.8,
+      "genre": ["Co-op", "Platform", "Singleplayer"],
+      "price": 19.99,
+      "platform": ["PC", "Nintendo Switch", "PS4", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/268910/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=KAriv93tzI0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/268910/ss_615455299355eaf552c638c7ea5b24a8b46e02dd.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Hollow Knight",
+      "description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+      "rating": 9,
+      "genre": ["Platform", "2D", "Indie", "Singleplayer", "Adventure"],
+      "price": 14.99,
+      "platform": ["PC", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=UAO2urG23S4",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/367520/ss_d5b6edd94e77ba6db31c44d8a3c09d807ab27751.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Ratchet & Clank: Rift Apart",
+      "description": "Blast your way through an interdimensional adventure with Ratchet and Clank! Help them take on an evil emperor from another reality as you jump between action-packed worlds and beyond at hyper-speed!",
+      "rating": 8.8,
+      "genre": [
+        "Adventure",
+        "Singleplayer",
+        "Action",
+        "Sci-fi",
+        "Shooter",
+        "Co-op"
+      ],
+      "price": 59.99,
+      "platform": ["PC", "PS5"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1895880/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ai3o0XtrnM8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1895880/ss_ba3c36a6efab13bae80058565deec546d8962594.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "A Way Out",
+      "description": "A Way Out is an exclusively co-op adventure where you play the role of one of two prisoners making their daring escape from prison.",
+      "rating": 7.9,
+      "genre": ["Co-op", "Crime", "Action", "Adventure"],
+      "price": 29.99,
+      "platform": ["PC", "PS4", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yGZGSdgJVPM",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1222700/ss_a7f52388d8d64bf56170baf5bd223fbbb1d9a94a.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Phasmophobia",
+      "description": "Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it's up to you and your team to use all the ghost-hunting equipment at your disposal in order to gather as much evidence as you can.",
+      "rating": 8,
+      "genre": ["Horror", "Co-op", "Multiplayer", "Supernatural"],
+      "price": 11.59,
+      "platform": ["PC", "PS5", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/739630/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=sRa9oeo5KiY",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/739630/ss_c88170bed9bf8690963323d20e3f9e836cb9aed9.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Party Animals",
+      "description": "Fight your friends as puppies, kittens and other fuzzy creatures in PARTY ANIMALS! Paw it out with your friends remotely, or huddle together for chaotic fun on the same screen. Interact with the world under our realistic physics engine. Did I mention PUPPIES?",
+      "rating": 7.6,
+      "genre": ["Casual", "Multiplayer", "Cute", "Party"],
+      "price": 17.99,
+      "platform": ["PC", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1260320/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Cunvu8b7rj0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1260320/ss_4efcf1f77232db08ac29bc84c6d83c4c521e21ac.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "The Binding of Isaac: Rebirth",
+      "description": "The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac's form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+      "rating": 8.7,
+      "genre": ["Indie", "Singleplayer", "Co-op", "Action"],
+      "price": 14.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Z6_C2ppkdVc",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/250900/ss_25a4a446a433218d41a7e87e35b60c297e68e7a4.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Rocket League",
+      "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and basketball-inspired Extra Modes, and more than 500 trillion possible cosmetic customization combinations.",
+      "rating": 8.7,
+      "genre": ["Multiplayer", "Football", "Competitive", "Sports", "Co-op"],
+      "price": 0,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": true,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/252950/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SgSX3gOrj60",
+      "images": [
+        "https://rocketleague.media.zestyio.com/rl_platform_keyart_2019.jpg"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Cooking Simulator",
+      "description": "Play one of the best cooking games! Take control of a highly polished, realistic kitchen equipped with all kinds of utensils and stands. Unlock and master over 80 recipes or use dozens of lifelike ingredients to cook everything you like. A simulator spiced up with a dash of real-life physics!",
+      "rating": 7,
+      "genre": ["Simulation", "Cooking", "Singleplayer", "Sandbox"],
+      "price": 16.79,
+      "platform": ["Nintendo Switch", "PS4", "PC", "Xbox One", "Android"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/641320/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=umjU1LpbkZ0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/641320/ss_5129463cfd32953711571ac457c0a04c30f2b5c7.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Bully: Scholarship Edition",
+      "description": "Bully tells the story of mischievous 15-year-old Jimmy Hopkins as he goes through the hilarity and awkwardness of adolescence. Beat the jocks at dodge ball, play pranks on the preppies, save the nerds, kiss the girl and navigate the social hierarchy in the worst school around.",
+      "rating": 8.7,
+      "genre": ["Open World", "Action", "Adventure", "Singleplayer"],
+      "price": 9.99,
+      "platform": ["Android", "PC", "iOS"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/12200/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=TnDwZatFRmo",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/12200/0000006056.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Life is Strange",
+      "description": "Follow the story of Max Caulfield, a photography senior who discovers she can rewind time while saving her best friend Chloe Price. The pair soon find themselves investigating the mysterious disappearance of fellow student Rachel Amber, uncovering a dark side to life in Arcadia Bay. Meanwhile, Max must quickly learn that changing the past can sometimes lead to a devastating future.",
+      "rating": 8.1,
+      "genre": ["Choices Matter", "Singleplayer", "Mystery", "Indie", "Casual"],
+      "price": 19.99,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "PS3",
+        "Nintendo Switch",
+        "Xbox One",
+        "Android",
+        "iOS"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/319630/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=AURVxvIZrmU",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/319630/ss_8df8236403f5aad45eeedd33d2bd545e45435b39.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "KeyWe",
+      "description": "KeyWe is a cute, co-operative postal puzzler starring Jeff and Debra, two small kiwi birds working in a whimsical post office. They must jump, flap, peck and butt-slam their way across an interactive landscape of levers, bells and buttons to get those messages delivered on time!",
+      "rating": 7.5,
+      "genre": ["Co-op", "Cute", "Puzzle", "Platform", "Indie"],
+      "price": 24.99,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1242980/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=54q_S-x8CCY",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1242980/ss_5861864c4a34417a41bb12a6de6443e66d3637a8.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Stray",
+      "description": "Lost, alone and separated from family, a stray cat must untangle an ancient mystery to escape a long-forgotten cybercity and find their way home.",
+      "rating": 8.4,
+      "genre": [
+        "Cats",
+        "Adventure",
+        "Cyberpunk",
+        "Cute",
+        "Sci-fi",
+        "Puzzle",
+        "Horror"
+      ],
+      "price": 27.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1332010/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=u84hRUQlaio",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1332010/ss_3fdd04a5418293864bf82d33c75f833121e63804.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "A Little to the Left",
+      "description": "A Little to the Left is a cozy puzzle game that has you sort, stack, and organize household items into pleasing arrangements while you keep an eye out for a mischievous cat with an inclination for chaos.",
+      "rating": 7.6,
+      "genre": ["Puzzle", "Cute", "Indie", "Cozy", "Cats"],
+      "price": 14.99,
+      "platform": ["PC", "Nintendo Switch"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1629520/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=zzrbTsfKVrg",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1629520/ss_426ce5e9200a5773912727d49bfcf725a46dfa55.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Uncharted 4: A Thief's End",
+      "description": "Play as Nathan Drake and Chloe Frazer in their own standalone adventures as they confront their pasts and forge their own legacies.",
+      "rating": 9.3,
+      "genre": [
+        "Adventure",
+        "Action",
+        "Singleplayer",
+        "Puzzle",
+        "Shooter",
+        "Parkour"
+      ],
+      "price": 49.99,
+      "platform": ["PC", "PS5", "PS4"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1659420/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=hh5HV4iic1Y",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1659420/ss_b171bf276c5f6edb99ca96be0912b64b9136c2ad.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Portal 2",
+      "description": "The \"Perpetual Testing Initiative\" has been expanded to allow you to design co-op puzzles for you and your friends!",
+      "rating": 8.8,
+      "genre": ["Platform", "Puzzle", "Dark Humor", "Co-op", "Sci-fi"],
+      "price": 9.75,
+      "platform": ["PC", "PS3", "Nintendo Switch", "Xbox 360"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=tax4e4hBBZc",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/620/ss_3d13161104a04603a0524536770c5f74626db4c0.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Melatonin",
+      "description": "Melatonin is a rhythm game about dreams and reality merging together. It uses animations and sound cues to keep you on beat without any intimidating overlays or interfaces. Harmonize through a variety of dreamy levels containing surprising challenges, hand-drawn art, and vibrant music.",
+      "rating": 7.8,
+      "genre": ["Rhythm", "Indie", "Cute"],
+      "price": 14.99,
+      "platform": ["PC", "Nintendo Switch"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1585220/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=pTks5ptQEX0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1585220/ss_3d3dfb1e10ab6c6ae11e7f1002b89f3353344ca7.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "HITMAN World of Assassination",
+      "description": "Enter the world of the ultimate assassin. HITMAN World of Assassination brings together the best of HITMAN, HITMAN 2 and HITMAN 3 including the main campaign, contract mode, escalations, elusive target arcades and the roguelike inspired game mode HITMAN: Freelancer.",
+      "rating": 8.3,
+      "genre": ["Stealth", "Action", "Assassin", "Singleplayer", "Shooter"],
+      "price": 69.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=WB2BSbaRmgY",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1659040/ss_f7dd4c699061224f46a60e9f68c36e5cb1397b78.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Road 96",
+      "description": "Hitchhike your way to freedom in this crazy procedurally generated road trip. No one's road is the same!",
+      "rating": 7.8,
+      "genre": [
+        "Adventure",
+        "Choices Matter",
+        "Multiple Endings",
+        "Singleplayer"
+      ],
+      "price": 19.96,
+      "platform": ["PC", "Nintendo Switch", "PS5", "PS4", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1466640/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZNUfdZyzB3Q",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1466640/ss_7fe96e9652dc3a007eb6bbe8ff87cdb4aeef7848.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Need for Speed Heat",
+      "description": "Hustle by day and risk it all at night in Need for Speed™ Heat Deluxe Edition, a white-knuckle street racer, where the lines of the law fade as the sun starts to set.",
+      "rating": 7.2,
+      "genre": [
+        "Racing",
+        "Open World",
+        "Driving",
+        "Multiplayer",
+        "Adventure",
+        "Co-op"
+      ],
+      "price": 69.99,
+      "platform": ["PC", "PS4", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222680/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9ewiJJe_nYI",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1222680/ss_1f752c037d7cbab2e1658f36d5c76d11e91e4fec.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Overcooked: All You Can Eat",
+      "description": "The Peckish have risen again and it's your job to satisfy their hunger, are you ready to save the world again? Overcooked! All You Can Eat is a chaotic cooking game where players need to work together (or alone) to serve as many dishes as they can before the timer runs out. Travel through the land cooking up a variety of recipes in evolving and dynamic kitchens.",
+      "rating": 8.8,
+      "genre": [
+        "Multiplayer",
+        "Platform",
+        "Co-op",
+        "Cooking",
+        "Casual",
+        "Cute"
+      ],
+      "price": 39.99,
+      "platform": ["PC", "PS5", "PS4", "Nintendo Switch", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1243830/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=H-FR-apUaX0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1243830/ss_e788a88828bd26cd42261997644b8aefa178f68f.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Undertale",
+      "description": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever.",
+      "rating": 9.3,
+      "genre": ["Choices Matter", "2D", "Multiple Endings", "RPG"],
+      "price": 9.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One", "Android"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/391540/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SqjY_-beWi0",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/391540/ss_edab41f7c9fa287b0d90ebfa3b9219fec6e1b3ed.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Spyro Reignited Trilogy",
+      "description": "Explore the expansive realms, re-encounter the fiery personalities and relive the adventure in fully remastered glory. Because when there's a realm that needs saving, there's only one dragon to call.",
+      "rating": 8.1,
+      "genre": ["3D Platform", "Adventure", "Dragons"],
+      "price": 39.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/996580/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=orzNU1R4wb8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/996580/ss_971529dd86fc64c4505e54fabb1847ec47118a5d.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Crash Bandicoot N. Sane Trilogy",
+      "description": "Spin, jump, wump and repeat as you take on the epic challenges and adventures through the three games that started it all, Crash Bandicoot™, Crash Bandicoot™ 2: Cortex Strikes Back and Crash Bandicoot™ 3: Warped. Relive all your favorite Crash moments in their fully-remastered graphical glory and get ready to put some UMPH in your WUMP!",
+      "rating": 8,
+      "genre": ["3D Platform", "Singleplayer", "Adventure", "Action"],
+      "price": 39.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/731490/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=F7G91RjVmvk",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/731490/ss_1a5bd0956c774afcadb1474f5fed2085715f2987.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Gris",
+      "description": "Gris is a hopeful young girl lost in her own world, dealing with a painful experience in her life. Her journey through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality.",
+      "rating": 8.6,
+      "genre": ["Indie", "Adventure", "Singleplayer", "2D", "Puzzle"],
+      "price": 14.79,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X",
+        "Android",
+        "iOS"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/683320/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=BRiKQIVo7ao",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/683320/ss_631d99cc6462cce94081032b7e600a6b87c3f7d3.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Demon Slayer - The Hinokami Chronicles",
+      "description": "Face off against demons from the anime series with stunning graphical effects faithfully recreating iconic battle techniques in full 3D!",
+      "rating": 7,
+      "genre": ["Action", "Adventure", "Fighting", "Multiplayer"],
+      "price": 59.99,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox One",
+        "Xbox Series S & X"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1490890/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=ZL-8rOIDPGM",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1490890/ss_3d9cddd140e9e8dc930dd66f08018280c44ce5cb.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Dragon Ball Z: Kakarot",
+      "description": "Beyond the epic battles, experience life in the DRAGON BALL Z world as you fight, fish, eat, and train with Goku, Gohan, Vegeta and others.",
+      "rating": 7.3,
+      "genre": [
+        "Action",
+        "RPG",
+        "Open World",
+        "Multiplayer",
+        "Fighting",
+        "Singleplayer"
+      ],
+      "price": 59.99,
+      "platform": [
+        "PC",
+        "PS5",
+        "PS4",
+        "Nintendo Switch",
+        "Xbox Series S & X",
+        "Xbox One"
+      ],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/851850/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=Bf85wwJuFBE",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/851850/ss_04e44a1a23446c5ab3fa2a32320ae7abde77ff6a.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Tekken 7",
+      "description": "Discover the epic conclusion of the long-time clan warfare between members of the Mishima family. Powered by Unreal Engine 4, the legendary fighting game franchise fights back with stunning story-driven cinematic battles and intense duels that can be enjoyed with friends and rivals.",
+      "rating": 8.2,
+      "genre": [
+        "Fighting",
+        "Action",
+        "Multiplayer",
+        "Competitive",
+        "Singleplayer"
+      ],
+      "price": 39.99,
+      "platform": ["PC", "PS4", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/389730/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=1V-_q3SKh5w",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/389730/ss_ed3246605518907954918eb06e90705249be77d6.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Lies of P",
+      "description": "Lies of P is a thrilling soulslike that takes the story of Pinocchio, turns it on its head, and sets it against the darkly elegant backdrop of the Belle Epoque era.",
+      "rating": 8.2,
+      "genre": ["Action", "RPG", "Singleplayer", "Choices Matter", "Adventure"],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1627720/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=R5TUYKAzGZs",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1627720/ss_6da0465ea662d368ad4b2cf1c0812faa1d0ca317.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Mortal Kombat 1",
+      "description": "Invasions is a dynamic single player campaign with a variety of distinct challenges. With built in progression and RPG mechanics, mixed with MK1's incredible fighting action, Invasions provides deep, and engaging challenges, and a ton of rewards along the way. Kameos dramatically enhance every fight, assisting teammates with their own Special Moves, Throws and defensive Breakers.",
+      "rating": 8.4,
+      "genre": ["Fighting", "Multiplayer", "PvP", "Singleplayer"],
+      "price": 69.99,
+      "platform": ["PC", "PS5", "Nintendo Switch", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1971870/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MYa7L4jp11E",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1971870/ss_224cb713d0e9dcc0028f5ad275cf6f4925d3dca5.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Assassin's Creed Valhalla",
+      "description": "Become a legendary Viking on a quest for glory. Raid your enemies, grow your settlement, and build your political power.",
+      "rating": 8.3,
+      "genre": ["Action", "Open World", "RPG", "Adventure", "Vikings"],
+      "price": 59.99,
+      "platform": ["PC", "PS5", "PS4", "Xbox One", "Xbox Series S & X"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=yaoUZKnLvVA",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/2208920/ss_c3bff917ead50268eb7708ef3bf30e07b58929e9.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Two Point Hospital",
+      "description": "Design stunning hospitals, cure peculiar illnesses and manage troublesome staff as you spread your budding healthcare organisation across Two Point County.",
+      "rating": 8.4,
+      "genre": [
+        "Simulation",
+        "Building",
+        "Management",
+        "Singleplayer",
+        "Casual"
+      ],
+      "price": 29.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/535930/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=SjrcU1gwkjc",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/535930/ss_730ffaa53e8ab770853dfa900c44680bba605d6d.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 75,
+      "title": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4",
+      "description": "The latest opus in the acclaimed STORM series is taking you on a colourful and breathtaking ride. Take advantage of the totally revamped battle system and prepare to dive into the most epic fights you've ever seen in the NARUTO SHIPPUDEN: Ultimate Ninja STORM series!",
+      "rating": 7.9,
+      "genre": [
+        "Fighting",
+        "Action",
+        "Multiplayer",
+        "Singleplayer",
+        "Adventure",
+        "Co-op"
+      ],
+      "price": 19.99,
+      "platform": ["PC", "PS4", "Nintendo Switch", "Xbox One"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/349040/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=9Vm4m15r2Xc",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/349040/ss_053f86d775e5b4ebfc0eb1d8ae42754c66d25130.1920x1080.jpg"
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Escape Simulator",
+      "description": "Explore a set of highly interactive escape rooms. Move furniture, pick up and examine everything, smash pots and break locks! Supports community rooms through the level editor.",
+      "rating": 7.8,
+      "genre": [
+        "Puzzle",
+        "Co-op",
+        "Escape Room",
+        "Multiplayer",
+        "Indie",
+        "Mystery"
+      ],
+      "price": 14.99,
+      "platform": ["PC"],
+      "free": false,
+      "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1435790/header.jpg",
+      "video_url": "https://www.youtube.com/watch?v=2VT7_tfRYV8",
+      "images": [
+        "https://cdn.akamai.steamstatic.com/steam/apps/1435790/ss_fd3f54b512086b2d4467f2a2c013071f05363df9.1920x1080.jpg"
       ]
     }
   ]
