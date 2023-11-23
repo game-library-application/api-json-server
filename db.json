@@ -34,6 +34,7 @@
       ],
       "free": false,
       "image_url": "https://i.ibb.co/WvKb3wX/header-minecraft.jpg",
+      "video_url": "https://www.youtube.com/watch?v=MmB9b5njVbA",
       "id": 2,
       "images": [
         "https://t2.tudocdn.net/567964?w=824&h=494",
@@ -55,6 +56,7 @@
       ],
       "free": true,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/444090/header.jpg?t=1695838776",
+      "video_url": "https://www.youtube.com/watch?v=g4WHiMVq1-8",
       "id": 3,
       "images": [
       ]
@@ -75,6 +77,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/header.jpg?t=1670458602",
+      "video_url": "https://www.youtube.com/watch?v=E-SOKBrNjug",
       "images": [
       ]
     },
@@ -94,6 +97,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg?t=1699983982",
+      "video_url": "https://www.youtube.com/watch?v=BtyBjOW8sGY",
       "images": [
       ]
     },
@@ -117,6 +121,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/960990/header.jpg?t=1667468566",
+      "video_url": "https://www.youtube.com/watch?v=uYxM0ULt2Js",
       "images": [
       ]
     },
@@ -142,6 +147,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg?t=1699030526",
+      "video_url": "https://www.youtube.com/watch?v=DD4zMOvRrzM",
       "images": [
       ]
     },
@@ -170,6 +176,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1699366103",
+      "video_url": "https://www.youtube.com/watch?v=JGhIXLO3ul8",
       "images": [
       ]
     },
@@ -195,6 +202,7 @@
       ],
       "free": true,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg?t=1698763175",
+      "video_url": "https://www.youtube.com/watch?v=Wj3dUvGLjNQ",
       "images": [
       ]
     },
@@ -216,6 +224,7 @@
       ],
       "free": true,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg?t=1700160976",
+      "video_url": "https://www.youtube.com/watch?v=DyNv44QR14g",
       "images": [
       ]
     },
@@ -242,6 +251,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/1135690/header.jpg?t=1698810645",
+      "video_url": "https://www.youtube.com/watch?v=_BG98e_w6d0",
       "images": [
       ]
     },
@@ -267,6 +277,7 @@
       ],
       "free": true,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/230410/header.jpg?t=1697647667",
+      "video_url": "https://www.youtube.com/watch?v=MsbL8lFHrZI",
       "images": [
       ]
     },
@@ -294,6 +305,7 @@
       ],
       "free": false,
       "image_url": "https://cdn.akamai.steamstatic.com/steam/apps/939850/header.jpg?t=1676860849",
+      "video_url": "https://www.youtube.com/watch?v=u6R1T-AANyU",
       "images": [
       ]
     },
@@ -310,6 +322,7 @@
         "iOS"
       ],
       "image_url": "https://developers.elementor.com/docs/assets/img/elementor-placeholder-image.png",
+      "video_url": "",
       "free": false,
       "id": 14,
       "images": [
